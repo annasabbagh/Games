@@ -1,1 +1,3 @@
-# PEXESO-memory-game
+# GAMES 
+
+Common repository with games
